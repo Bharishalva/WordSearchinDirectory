@@ -1,0 +1,13 @@
+C:\Users\LENOVO\source\repos\filesearch\filesearch\bin\Debug\netcoreapp3.1\filesearch.exe
+C:\Users\LENOVO\source\repos\filesearch\filesearch\bin\Debug\netcoreapp3.1\filesearch.deps.json
+C:\Users\LENOVO\source\repos\filesearch\filesearch\bin\Debug\netcoreapp3.1\filesearch.runtimeconfig.json
+C:\Users\LENOVO\source\repos\filesearch\filesearch\bin\Debug\netcoreapp3.1\filesearch.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\filesearch\filesearch\bin\Debug\netcoreapp3.1\filesearch.dll
+C:\Users\LENOVO\source\repos\filesearch\filesearch\bin\Debug\netcoreapp3.1\filesearch.pdb
+C:\Users\LENOVO\source\repos\filesearch\filesearch\obj\Debug\netcoreapp3.1\filesearch.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\filesearch\filesearch\obj\Debug\netcoreapp3.1\filesearch.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\filesearch\filesearch\obj\Debug\netcoreapp3.1\filesearch.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\filesearch\filesearch\obj\Debug\netcoreapp3.1\filesearch.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\filesearch\filesearch\obj\Debug\netcoreapp3.1\filesearch.dll
+C:\Users\LENOVO\source\repos\filesearch\filesearch\obj\Debug\netcoreapp3.1\filesearch.pdb
+C:\Users\LENOVO\source\repos\filesearch\filesearch\obj\Debug\netcoreapp3.1\filesearch.genruntimeconfig.cache
